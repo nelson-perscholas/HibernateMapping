@@ -23,6 +23,7 @@
         <mapping class="org.example.model.Teacher"/>
         <mapping class="org.example.model.Department"/>
         <mapping class="org.example.model.Address"/>
+        <mapping class="org.example.model.Cohort"/>
 
     </session-factory>
  </hibernate-configuration>
